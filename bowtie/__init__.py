@@ -1,0 +1,5 @@
+__version__ = "0.0.1"
+__description__ = "Bow-Tie diagram generator based on OISRU methodology"
+__author__ = "Adam Stevko"
+__author_email__ = "TBD"
+__url__ = "TBD"

@@ -1,0 +1,33 @@
+{
+  "header": [
+      "source",
+      "event",
+      "outcome",
+      "consequence"
+  ],
+  "linkage": [
+      "source",
+      "event",
+      "outcome",
+      "consequence"
+  ],
+  "style": {
+    "source": {
+      "shape": "rectangle",
+      "color": "blue"
+    },
+    "event": {
+      "shape": "rectangle",
+      "color": "blue"
+    },
+    "outcome": {
+      "shape": "doublecircle",
+      "color": "salmon",
+      "style": "filled"
+    },
+    "consequence": {
+      "shape": "rectangle",
+      "color": "red"
+    }
+  }
+}

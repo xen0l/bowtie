@@ -1,0 +1,6 @@
+source,event,outcome,consequence
+External Criminals,Exploit Vulnerability,Supplier Information Breach,Regulatory Fines
+External Criminals,Use of Stolen Credentials,Supplier Information Breach,Damaged Reputation
+External Criminals,Rootkit,Supplier Information Breach,Damaged Reputation
+External Criminals,Phishing,Supplier Information Breach,Loss of Supplier
+

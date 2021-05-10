@@ -1,0 +1,28 @@
+{
+  "$id": "oisru.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "OISRU",
+  "type": "object",
+  "properties": {
+    "source": {
+      "type": "string"
+    },
+    "event": {
+      "type": "string"
+    },
+    "outcome":{
+      "type": "string"
+    },
+    "consequence": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 10
+    }
+  },
+  "required": [
+    "source",
+    "event",
+    "outcome",
+    "consequence"
+  ]
+}
